@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Karl\\git\\bitcointrading/trained_models\\171210\\1612\\run_0\\bitcoin_cnn.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Karl\\git\\bitcointrading/trained_models\\171210\\1612\\run_0\\bitcoin_cnn.ckpt"
